@@ -27,8 +27,9 @@
   display: inline-block;
   padding: 3px;
   margin-left:5px;
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
+  animation-name: example1;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
 }
 
 
@@ -38,8 +39,20 @@
   display: inline-block;
   padding: 3px;
   margin-left:5px;
-  transform: rotate(-135deg);
-  -webkit-transform: rotate(-135deg);
+  animation-name: example;
+  animation-duration: 0.5s;
+  animation-fill-mode: forwards;
+ 
+}
+
+@keyframes example {
+  from {transform: rotate(45deg)}
+  to {transform: rotate(-135deg)}
+}
+
+@keyframes example1 {
+  from {transform: rotate(-135deg)}
+  to {transform: rotate(45deg)}
 }
 
 .sidebar{
