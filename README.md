@@ -7,4 +7,4 @@ run npm install
 run npm start
 
 
-#Note: Looking forward to develop a professional website like this. Feel free to contact at khuramhaf@gmail.com
+#Note: Looking forward to develop a professional website like this. Feel free to contact at contact@musk-technology.com
