@@ -1,4 +1,4 @@
-This project is a modren way of making user interface for the web. As in the past we mostly use drop down menus in the website to make user interfaces but after the arrival of frontend libraries the thing changes. Now the sidebar menu is the fastest way of making user interfaces for the website. It has many advantages over the old drop down based user interface. 
+This project is a modren way of making user interface for the web. As in the past we mostly use drop down menus in the website to make user interfaces but after the arrival of frontend libraries the thing changes. Now the sidebar menu is the fastest way of making user interfaces for the website. It has many advantages over the old drop down based user interface.     
 
 #how to use?
 
